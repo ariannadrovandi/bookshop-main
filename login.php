@@ -1,5 +1,6 @@
 <?php
 
+include __DIR__.'/partials/server/auth.php';
 include './partials/template/header.php';
 ?>
 <div class="d-flex">
